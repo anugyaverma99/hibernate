@@ -24,6 +24,7 @@
         <!-- Register Entity -->
         <mapping class="oneToMany.Entity.Order"/>
         <mapping class="oneToMany.Entity.Customer"/>
+<mapping class="oneToMany.Entity.Custom"/>
 
     </session-factory>
 </hibernate-configuration>
